@@ -995,3 +995,8 @@ vendors:
 css: css
 js: js
 images: images
+
+# 只展示摘要部分
+auto_excerpt:
+  enable: true
+  length: 150 # 设置摘要的长度，单位为字符
